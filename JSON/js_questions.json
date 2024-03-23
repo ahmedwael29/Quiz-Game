@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What does the abbreviation 'DOM' stand for in JavaScript?",
+    "answer_1": "Document Object Model",
+    "answer_2": "Data Object Model",
+    "answer_3": "Dynamic Object Model",
+    "answer_4": "Document Oriented Model",
+    "right_answer": "Document Object Model"
+  },
+  {
+    "title": "What does the 'typeof' operator in JavaScript do?",
+    "answer_3": "It returns the type of a variable or expression",
+    "answer_2": "It converts a value to a specified type",
+    "answer_1": "It checks if a variable or expression is null",
+    "answer_4": "It defines a new variable",
+    "right_answer": "It returns the type of a variable or expression"
+  },
+  {
+    "title": "What does the 'NaN' stand for in JavaScript?",
+    "answer_1": "Not a Null",
+    "answer_2": "Not a Number",
+    "answer_3": "Null and None",
+    "answer_4": "Number and Null",
+    "right_answer": "Not a Number"
+  },
+  {
+    "title": "Which keyword is used to declare a variable in JavaScript?",
+    "answer_4": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_1": "variable",
+    "right_answer": "var"
+  },
+  {
+    "title": "What is the correct way to write a JavaScript array?",
+    "answer_1": "var colors = [\"Red\", \"Green\", \"Blue\"]",
+    "answer_2": "colors = \"Red\", \"Green\", \"Blue\"",
+    "answer_3": "colors = {\"Red\", \"Green\", \"Blue\"}",
+    "answer_4": "var colors = \"Red, Green, Blue\"",
+    "right_answer": "var colors = [\"Red\", \"Green\", \"Blue\"]"
+  },
+  {
+    "title": "What is the purpose of the 'setTimeout' function in JavaScript?",
+    "answer_1": "To call a function after a specified delay",
+    "answer_2": "To set the time on the device's clock",
+    "answer_3": "To stop the execution of a function",
+    "answer_4": "To repeat the execution of a function at regular intervals",
+    "right_answer": "To call a function after a specified delay"
+  },
+  {
+    "title": "What does the '==='' operator in JavaScript do?",
+    "answer_1": "Checks if two values are equal in value and type",
+    "answer_2": "Converts a value to a boolean",
+    "answer_3": "Checks if two values are equal in value only",
+    "answer_4": "Checks if two values are not equal",
+    "right_answer": "Checks if two values are equal in value and type"
+  },
+  {
+    "title": "What is the purpose of the 'typeof' operator in JavaScript?",
+    "answer_1": "To determine the type of a variable or expression",
+    "answer_2": "To perform arithmetic operations",
+    "answer_3": "To convert a value to a string",
+    "answer_4": "To compare two values",
+    "right_answer": "To determine the type of a variable or expression"
+  },
+  {
+    "title": "What is the correct way to write a JavaScript comment for a single line?",
+    "answer_1": "// This is a comment",
+    "answer_2": "<!-- This is a comment -->",
+    "answer_3": "/* This is a comment */",
+    "answer_4": "# This is a comment",
+    "right_answer": "// This is a comment"
+  },
+  {
+    "title": "What does the 'typeof null' return in JavaScript?",
+    "answer_1": "null",
+    "answer_2": "object",
+    "answer_3": "undefined",
+    "answer_4": "NaN",
+    "right_answer": "object"
+  },
+  {
+    "title": "What is the purpose of the 'console.log()' function in JavaScript?",
+    "answer_1": "To log messages to the console for debugging purposes",
+    "answer_2": "To create a new console window in the browser",
+    "answer_3": "To log messages to the server",
+    "answer_4": "To display messages in an alert box",
+    "right_answer": "To log messages to the console for debugging purposes"
+  },
+  {
+    "title": "What does the 'let' keyword do in JavaScript?",
+    "answer_1": "Declares a variable with block scope",
+    "answer_2": "Declares a variable with function scope",
+    "answer_3": "Declares a constant variable",
+    "answer_4": "Declares a global variable",
+    "right_answer": "Declares a variable with block scope"
+  },
+  {
+    "title": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+    "answer_1": "To remove an event listener from an element",
+    "answer_2": "To add an event listener to an element",
+    "answer_3": "To trigger an event on an element",
+    "answer_4": "To handle errors in JavaScript code",
+    "right_answer": "To add an event listener to an element"
+  },
+  {
+    "title": "What does the 'this' keyword refer to in JavaScript?",
+    "answer_1": "Refers to the current function",
+    "answer_2": "Refers to the global object",
+    "answer_3": "Refers to the object that is executing the current function",
+    "answer_4": "Refers to the parent object",
+    "right_answer": "Refers to the object that is executing the current function"
+  },
+  {
+    "title": "What is the purpose of the 'JSON.stringify()' method in JavaScript?",
+    "answer_1": "Converts a JavaScript object to a JSON string",
+    "answer_2": "Converts a JSON string to a JavaScript object",
+    "answer_3": "Parses a JSON string",
+    "answer_4": "Serializes a JavaScript object",
+    "right_answer": "Converts a JavaScript object to a JSON string"
+  },
+  {
+    "title": "What does the 'querySelector()' method do in JavaScript?",
+    "answer_1": "Selects the first element that matches a specified CSS selector",
+    "answer_2": "Selects all elements that match a specified CSS selector",
+    "answer_3": "Selects the parent element of a specified element",
+    "answer_4": "Selects the child elements of a specified element",
+    "right_answer": "Selects the first element that matches a specified CSS selector"
+  },
+  {
+    "title": "What is the purpose of the 'parseInt()' function in JavaScript?",
+    "answer_1": "Converts a string to a floating-point number",
+    "answer_2": "Converts a string to an integer",
+    "answer_3": "Converts a string to a boolean value",
+    "answer_4": "Converts a string to a date object",
+    "right_answer": "Converts a string to an integer"
+  },
+  {
+    "title": "What does the 'Array.isArray()' method do in JavaScript?",
+    "answer_1": "Checks if a variable is an array",
+    "answer_2": "Converts an array to a string",
+    "answer_3": "Adds an element to the end of an array",
+    "answer_4": "Removes the first element from an array",
+    "right_answer": "Checks if a variable is an array"
+  },
+  {
+    "title": "What is the purpose of the 'Math.random()' method in JavaScript?",
+    "answer_1": "Generates a random number between 0 and 1",
+    "answer_2": "Generates a random integer between two specified values",
+    "answer_3": "Rounds a number to the nearest integer",
+    "answer_4": "Returns the square root of a number",
+    "right_answer": "Generates a random number between 0 and 1"
+  },
+  {
+    "title": "What does the 'slice()' method do on arrays in JavaScript?",
+    "answer_1": "Returns a portion of the array",
+    "answer_2": "Removes the last element of the array",
+    "answer_3": "Adds elements to the beginning of the array",
+    "answer_4": "Sorts the elements of the array",
+    "right_answer": "Returns a portion of the array"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_4": "Cascading Style Sheets",
+    "answer_2": "Creative Style Sheets",
+    "answer_3": "Computer Style Sheets",
+    "answer_1": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which CSS property is used to change the text color of an element?",
+    "answer_2": "color",
+    "answer_1": "text-color",
+    "answer_3": "font-color",
+    "answer_4": "background-color",
+    "right_answer": "color"
+  },
+  {
+    "title": "Which CSS property is used to set the background color of an element?",
+    "answer_3": "background-color",
+    "answer_2": "color",
+    "answer_1": "background",
+    "answer_4": "bgcolor",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "What is the correct CSS syntax to change the font size of a paragraph?",
+    "answer_1": "p {font-size: 12px;}",
+    "answer_2": "p {size: 12px;}",
+    "answer_3": "p {text-size: 12px;}",
+    "answer_4": "p {font: 12px;}",
+    "right_answer": "p {font-size: 12px;}"
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between lines of text?",
+    "answer_4": "line-height",
+    "answer_2": "spacing",
+    "answer_3": "text-spacing",
+    "answer_1": "letter-spacing",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "What does the CSS property 'display: none;' do?",
+    "answer_2": "Hides an element completely",
+    "answer_1": "Displays an element as an inline-level block container",
+    "answer_3": "Displays an element as a block-level flex container",
+    "answer_4": "Makes an element visible",
+    "right_answer": "Hides an element completely"
+  },
+  {
+    "title": "Which CSS property is used to set the width of an element?",
+    "answer_1": "width",
+    "answer_2": "size",
+    "answer_3": "height",
+    "answer_4": "dimension",
+    "right_answer": "width"
+  },
+  {
+    "title": "What is the correct CSS syntax for making all the <p> elements bold?",
+    "answer_3": "p {font-weight: bold;}",
+    "answer_2": "p {text-style: bold;}",
+    "answer_1": "p {font-bold: true;}",
+    "answer_4": "p {style: bold;}",
+    "right_answer": "p {font-weight: bold;}"
+  },
+  {
+    "title": "What does the CSS property 'position: relative;' do?",
+    "answer_1": "Positions an element relative to its normal position",
+    "answer_2": "Positions an element absolutely in the browser window",
+    "answer_3": "Positions an element relative to its parent element",
+    "answer_4": "Positions an element at the bottom of the page",
+    "right_answer": "Positions an element relative to its normal position"
+  },
+  {
+    "title": "What is the correct CSS syntax to select an element with id 'demo'?",
+    "answer_1": "#demo",
+    "answer_2": ".demo",
+    "answer_3": "demo",
+    "answer_4": "element-demo",
+    "right_answer": "#demo"
+  },
+  {
+    "title": "Which CSS property is used to make text bold?",
+    "answer_2": "font-weight",
+    "answer_1": "text-style",
+    "answer_3": "bold",
+    "answer_4": "font-style",
+    "right_answer": "font-weight"
+  },
+  {
+    "title": "What does the CSS property 'float' do?",
+    "answer_1": "It makes an element float to the right side of its container",
+    "answer_2": "It aligns text to the left or right of its container",
+    "answer_3": "It creates a shadow effect behind an element",
+    "answer_4": "It causes an element to be removed from the normal flow of the page",
+    "right_answer": "It causes an element to be removed from the normal flow of the page"
+  },
+  {
+    "title": "Which CSS property is used to add shadows to text?",
+    "answer_1": "text-shadow",
+    "answer_2": "shadow",
+    "answer_3": "text-style",
+    "answer_4": "box-shadow",
+    "right_answer": "text-shadow"
+  },
+  {
+    "title": "What does the CSS property 'display: none;' do?",
+    "answer_1": "Hides an element without affecting the layout",
+    "answer_2": "Displays an element as a block-level element",
+    "answer_3": "Adds a border to an element",
+    "answer_4": "Centers an element horizontally",
+    "right_answer": "Hides an element without affecting the layout"
+  },
+  {
+    "title": "Which CSS property is used to add rounded corners to an element?",
+    "answer_1": "border-radius",
+    "answer_2": "corner-radius",
+    "answer_3": "rounded-border",
+    "answer_4": "border-style",
+    "right_answer": "border-radius"
+  },
+  {
+    "title": "What does the 'float' property in CSS do?",
+    "answer_1": "Aligns an element to the left or right within its container",
+    "answer_2": "Makes an element float above other elements",
+    "answer_3": "Changes the opacity of an element",
+    "answer_4": "Increases the size of an element",
+    "right_answer": "Aligns an element to the left or right within its container"
+  },
+  {
+    "title": "Which CSS property is used to change the color of text?",
+    "answer_1": "color",
+    "answer_2": "text-color",
+    "answer_3": "font-color",
+    "answer_4": "text-style",
+    "right_answer": "color"
+  },
+  {
+    "title": "What does the 'z-index' property in CSS do?",
+    "answer_1": "Specifies the order of positioned elements",
+    "answer_2": "Changes the opacity of an element",
+    "answer_3": "Sets the stacking order of elements",
+    "answer_4": "Rotates an element clockwise",
+    "right_answer": "Sets the stacking order of elements"
+  },
+  {
+    "title": "Which CSS property is used to change the font of text?",
+    "answer_1": "font-family",
+    "answer_2": "text-font",
+    "answer_3": "font-style",
+    "answer_4": "text-family",
+    "right_answer": "font-family"
+  },
+  {
+    "title": "What does the 'padding' property in CSS control?",
+    "answer_1": "The space between the content and the border of an element",
+    "answer_2": "The space between elements",
+    "answer_3": "The space between the border and the margin of an element",
+    "answer_4": "The space between the border and the edge of the viewport",
+    "right_answer": "The space between the content and the border of an element"
+  },
+  {
+    "title": "Which CSS property is used to set the width of an element?",
+    "answer_1": "width",
+    "answer_2": "size",
+    "answer_3": "length",
+    "answer_4": "dimension",
+    "right_answer": "width"
+  },
+  {
+    "title": "What does the 'box-sizing' property in CSS do?",
+    "answer_1": "Specifies whether an element should float or not",
+    "answer_2": "Specifies how the total width and height of an element is calculated",
+    "answer_3": "Specifies the positioning of an element",
+    "answer_4": "Specifies the rotation of an element",
+    "right_answer": "Specifies how the total width and height of an element is calculated"
+  },
+  {
+    "title": "Which CSS property is used to set the background image of an element?",
+    "answer_1": "background-image",
+    "answer_2": "image-background",
+    "answer_3": "background",
+    "answer_4": "background-style",
+    "right_answer": "background-image"
+  },
+    {
+      "title": "What does the CSS property 'position: relative;' do?",
+      "answer_1": "Positions an element relative to its normal position",
+      "answer_2": "Positions an element relative to the viewport",
+      "answer_3": "Positions an element relative to its parent element",
+      "answer_4": "Positions an element absolutely",
+      "right_answer": "Positions an element relative to its normal position"
+    },
+    {
+      "title": "Which CSS property is used to create a shadow effect behind an element?",
+      "answer_1": "box-shadow",
+      "answer_2": "shadow-effect",
+      "answer_3": "element-shadow",
+      "answer_4": "shadow",
+      "right_answer": "box-shadow"
+    },
+    {
+      "title": "What does the 'opacity' property in CSS control?",
+      "answer_1": "The size of an element",
+      "answer_2": "The rotation of an element",
+      "answer_3": "The transparency of an element",
+      "answer_4": "The positioning of an element",
+      "right_answer": "The transparency of an element"
+    },
+    {
+      "title": "Which CSS property is used to specify the style of the border of an element?",
+      "answer_1": "border-style",
+      "answer_2": "style",
+      "answer_3": "border",
+      "answer_4": "border-color",
+      "right_answer": "border-style"
+    },
+    {
+      "title": "What does the 'flexbox' layout model in CSS provide?",
+      "answer_1": "A way to create flexible layouts",
+      "answer_2": "A way to style text",
+      "answer_3": "A way to add shadows to elements",
+      "answer_4": "A way to create rounded corners",
+      "right_answer": "A way to create flexible layouts"
+    },
+    {
+      "title": "Which CSS property is used to specify the alignment of text within an element?",
+      "answer_1": "text-align",
+      "answer_2": "align-text",
+      "answer_3": "text-style",
+      "answer_4": "align",
+      "right_answer": "text-align"
+    },
+    {
+      "title": "What does the 'flex-direction' property in CSS control?",
+      "answer_1": "The direction in which flex items are placed in the flex container",
+      "answer_2": "The spacing between flex items",
+      "answer_3": "The size of flex items",
+      "answer_4": "The alignment of flex items",
+      "right_answer": "The direction in which flex items are placed in the flex container"
+    },
+    {
+      "title": "Which CSS property is used to specify the size of the font?",
+      "answer_1": "font-size",
+      "answer_2": "text-size",
+      "answer_3": "size",
+      "answer_4": "font-style",
+      "right_answer": "font-size"
+    },
+    {
+      "title": "What does the 'transition' property in CSS do?",
+      "answer_1": "Creates smooth transitions between property values",
+      "answer_2": "Specifies the time delay before a transition starts",
+      "answer_3": "Defines the timing function used in a transition",
+      "answer_4": "Specifies the final state of a transition",
+      "right_answer": "Creates smooth transitions between property values"
+    },
+    {
+      "title": "Which CSS property is used to specify the distance between the outer edges of an element and its surrounding elements?",
+      "answer_1": "margin",
+      "answer_2": "spacing",
+      "answer_3": "distance",
+      "answer_4": "padding",
+      "right_answer": "margin"
+    } 
+]

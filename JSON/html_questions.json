@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Why We Use <Br> Element ?",
+    "answer_1": "To Make Text Bold ",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add BreakLine",
+    "answer_4": "To Make a Horizontal Line",
+    "right_answer": "To Add BreakLine"
+  },
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Home Tool Markup Language",
+    "answer_2": "Hyperlinks and Text Markup Language",
+    "answer_3": "Hyper Text Markup Language",
+    "answer_4": "Hyper Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to create a hyperlink?",
+    "answer_3": "<a>",
+    "answer_2": "<h1>",
+    "answer_1": "<p>",
+    "answer_4": "<b>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "What is the correct HTML for creating a checkbox?",
+    "answer_1": "<input type='checkbox'>",
+    "answer_2": "<checkbox>",
+    "answer_3": "<check>",
+    "answer_4": "<input checkbox>",
+    "right_answer": "<input type='checkbox'>"
+  },
+  {
+    "title": "What is the correct HTML for creating a table?",
+    "answer_4": "<table>",
+    "answer_2": "<th>",
+    "answer_3": "<tr>",
+    "answer_1": "<td>",
+    "right_answer": "<table>"
+  },
+  {
+    "title": "How can you open a link in a new tab/browser window?",
+    "answer_1": "<a href='url' target='new'>",
+    "answer_2": "<a href='url' new>",
+    "answer_3": "<a href='url' target='_blank'>",
+    "answer_4": "<a href='url' target='new_tab'>",
+    "right_answer": "<a href='url' target='_blank'>"
+  },
+  {
+    "title": "What is the correct HTML for adding a background color?",
+    "answer_2": "<body style='background-color:yellow;'>",
+    "answer_1": "<background>yellow</background>",
+    "answer_3": "<bg>yellow</bg>",
+    "answer_4": "<body bg='yellow'>",
+    "right_answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "title": "Choose the correct HTML element for the largest heading:",
+    "answer_1": "<h6>",
+    "answer_2": "<head>",
+    "answer_3": "<h1>",
+    "answer_4": "<heading>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Choose the correct HTML element for the smallest heading:",
+    "answer_4": "<h6>",
+    "answer_2": "<head>",
+    "answer_3": "<h1>",
+    "answer_1": "<heading>",
+    "right_answer": "<h6>"
+  },
+  {
+    "title": "What is the correct HTML for creating a hyperlink?",
+    "answer_2": "<a href='http://www.example.com'>Example</a>",
+    "answer_1": "<a url='http://www.example.com'>Example</a>",
+    "answer_4": "<a src='http://www.example.com'>Example</a>",
+    "answer_3": "<a name='http://www.example.com'>Example</a>",
+    "right_answer": "<a href='http://www.example.com'>Example</a>"
+  },
+  {
+    "title": "Which HTML element is used to define an image?",
+    "answer_1": "<img>",
+    "answer_2": "<image>",
+    "answer_3": "<picture>",
+    "answer_4": "<src>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "What does the HTML <abbr> element do?",
+    "answer_1": "Defines an abbreviation or acronym",
+    "answer_2": "Creates a list item",
+    "answer_3": "Defines an image",
+    "answer_4": "Defines a paragraph",
+    "right_answer": "Defines an abbreviation or acronym"
+  },
+  {
+    "title": "Which HTML element defines the title of a document?",
+    "answer_1": "<title>",
+    "answer_2": "<header>",
+    "answer_3": "<head>",
+    "answer_4": "<h1>",
+    "right_answer": "<title>"
+  },
+  {
+    "title": "What does the HTML <nav> element do?",
+    "answer_1": "Defines a navigation menu",
+    "answer_2": "Defines a new paragraph",
+    "answer_3": "Defines a new section",
+    "answer_4": "Defines a new table",
+    "right_answer": "Defines a navigation menu"
+  },
+  {
+    "title": "Which HTML element is used to define important text?",
+    "answer_1": "<strong>",
+    "answer_2": "<bold>",
+    "answer_3": "<em>",
+    "answer_4": "<important>",
+    "right_answer": "<strong>"
+  },
+  {
+    "title": "What does the HTML <hr> element do?",
+    "answer_1": "Creates a horizontal line",
+    "answer_2": "Defines a hyperlink",
+    "answer_3": "Defines a new paragraph",
+    "answer_4": "Defines a new table",
+    "right_answer": "Creates a horizontal line"
+  },
+  {
+    "title": "Which HTML element is used to define a list item?",
+    "answer_1": "<li>",
+    "answer_2": "<list>",
+    "answer_3": "<ul>",
+    "answer_4": "<ol>",
+    "right_answer": "<li>"
+  },
+  {
+    "title": "What does the HTML <address> element do?",
+    "answer_1": "Defines contact information for the author/owner of a document",
+    "answer_2": "Defines a new paragraph",
+    "answer_3": "Defines an image",
+    "answer_4": "Defines an abbreviation or acronym",
+    "right_answer": "Defines contact information for the author/owner of a document"
+  },
+  {
+    "title": "Which HTML element is used to define emphasized text?",
+    "answer_1": "<em>",
+    "answer_2": "<italic>",
+    "answer_3": "<strong>",
+    "answer_4": "<bold>",
+    "right_answer": "<em>"
+  },
+  {
+    "title": "What does the HTML <q> element do?",
+    "answer_1": "Defines a short quotation",
+    "answer_2": "Defines a navigation menu",
+    "answer_3": "Defines an image",
+    "answer_4": "Defines a table",
+    "right_answer": "Defines a short quotation"
+  },
+  {
+    "title": "What does the HTML <blockquote> element do?",
+    "answer_1": "Defines a long quotation",
+    "answer_2": "Defines a navigation menu",
+    "answer_3": "Defines a new section",
+    "answer_4": "Defines a table",
+    "right_answer": "Defines a long quotation"
+  },
+  {
+    "title": "Which HTML element is used to define subscripted text?",
+    "answer_1": "<sub>",
+    "answer_2": "<sup>",
+    "answer_3": "<small>",
+    "answer_4": "<subscript>",
+    "right_answer": "<sub>"
+  },
+  {
+    "title": "What does the HTML <code> element do?",
+    "answer_1": "Defines a keyboard input",
+    "answer_2": "Defines computer code text",
+    "answer_3": "Defines a new paragraph",
+    "answer_4": "Defines a table",
+    "right_answer": "Defines computer code text"
+  }
+]

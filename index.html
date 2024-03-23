@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="Imgs/favicon.ico" type="image/x-icon" />
+    <title>Main Quiz Page</title>
+  </head>
+  <body>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-image: url(Imgs/brick-wall-texture.jpg);
+        background-position: center;
+        background-size: contain;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      h2 {
+        background-color: #ccc;
+        color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+        font-size: 30px;
+        font-weight: bold;
+        border-radius: 1px;
+      }
+      @media (max-width: 768px) {
+        h2 {
+          font-size: 25px;
+        }
+      }
+      .main {
+        max-width: 700px;
+        margin: 130px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+      a {
+        text-decoration: none;
+        color: white;
+        padding: 20px 30px;
+        border: 2px solid white;
+        border-radius: 25px;
+        margin-top: 20px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        font-size: 30px;
+        transition: 0.2s;
+      }
+      a:hover {
+        background-color: white;
+        color: black;
+      }
+      footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px 10px;
+        width: 100%;
+        font-size: 20px;
+        margin-bottom: 2px;
+      }
+      @media (max-width: 768px) {
+        footer {
+          display: block;
+          text-align: center;
+        }
+      }
+      span.name {
+        color: #0075ff;
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: capitalize;
+        margin: 0 5px;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      span.year {
+        margin: 0 5px;
+        color: #0075ff;
+        font-weight: bold;
+      }
+    </style>
+    <h2>Welcome To Quiz Game🧑‍💻</h2>
+    <div class="main">
+      <a href="html.html">HTML Quiz</a>
+      <a href="css.html">CSS Quiz</a>
+      <a href="js.html">JS Quiz</a>
+    </div>
+    <footer>
+      All Rights Reserved &COPY; <span class="year"></span> By
+      <span class="name">ahmed wael💙</span>
+    </footer>
+    <script>
+      let span = document.querySelector(".year");
+      let year = new Date().getFullYear();
+      span.innerHTML = year;
+    </script>
+  </body>
+</html>
